@@ -17,14 +17,6 @@ An end-to-end machine learning application that predicts whether a telecom custo
 
 Built using Python, Scikit-Learn, Pandas, and Streamlit.
 
----
-
-## 🚀 Live Demo
-
-Coming Soon
-
----
-
 ## 📌 Project Overview
 
 Customer churn is one of the biggest challenges for subscription-based businesses.
