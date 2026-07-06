@@ -1,0 +1,5 @@
+Model,Accuracy
+Logistic Regression,0.8161816891412349
+Decision Tree,0.7253371185237757
+Random Forest,0.794889992902768
+Gradient Boosting,0.8105039034776437
