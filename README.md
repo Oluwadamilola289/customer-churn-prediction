@@ -99,25 +99,25 @@ Best Model:
 
 ### Main Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
 ### Customer Prediction
 
-![Prediction](images/prediction_stay.png)
+![Prediction](images/Prediction_1.png)
 
 ---
 
 ### High Risk Customer
 
-![Prediction](images/prediction_churn.png)
+![Prediction](images/Prediction_2.png)
 
 ---
 
 ### Model Comparison
 
-![Models](images/model_comparison.png)
+![Models](images/Models.png)
 
 ---
 
