@@ -1,3 +1,12 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-Live-red)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 # 📊 Customer Churn Prediction System
 
 ## 🌐 Live Demo
