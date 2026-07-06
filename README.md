@@ -1,5 +1,9 @@
 # 📊 Customer Churn Prediction System
 
+## 🌐 Live Demo
+
+https://oluwadamilolaosho-customer-churn-predictor.streamlit.app/
+
 An end-to-end machine learning application that predicts whether a telecom customer is likely to churn based on demographic, billing, and service usage information.
 
 Built using Python, Scikit-Learn, Pandas, and Streamlit.
